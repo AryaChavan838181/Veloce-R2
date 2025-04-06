@@ -1,0 +1,3 @@
+Project 2: Predict Loan Default
+Dataset: Lending Club Loan Data (from Kaggle)
+Goal: Predict if a borrower will default on a loan using credit score, loan amount, and financial details.
