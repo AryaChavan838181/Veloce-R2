@@ -1,3 +1,7 @@
 Project 1: Predict Housing Prices
 Dataset: Boston Housing Dataset (built into TensorFlow/Keras)
 Goal: Predict the median value of homes in Boston using features like crime rate, number of rooms, and highway accessibility.
+
+
+
+https://www.kaggle.com/code/mohitgoyal522/boston-housing-data-analysis-machine-learning
