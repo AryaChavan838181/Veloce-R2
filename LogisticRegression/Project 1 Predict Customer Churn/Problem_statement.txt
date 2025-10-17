@@ -1,3 +1,0 @@
-Project 1: Predict Customer Churn
-Dataset: Telco Customer Churn (from Kaggle)
-Goal: Predict if a customer will leave a telecom service based on usage, contract type, and demographics.
