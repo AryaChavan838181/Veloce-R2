@@ -1,3 +1,0 @@
-Project 2: Predict Car Fuel Efficiency
-Dataset: Auto MPG Dataset (available via TensorFlow or UCI)
-Goal: Predict a car’s fuel efficiency (miles per gallon) based on horsepower, weight, and cylinders.
